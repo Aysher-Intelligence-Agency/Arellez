@@ -21,7 +21,7 @@ Matplotlib==3.9.4 ; python_version <= "3.9"
 Matplotlib==3.10.1 ; python_version > "3.9"
 holidays==0.73
 pytz==2025.2
-Tornado==6.5.1
+Tornado==6.5.5
 # security plugin
 PyCryptodome==3.23.0
 # xbrlDB plugin
